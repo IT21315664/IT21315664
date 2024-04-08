@@ -1,4 +1,4 @@
-<img src = "C:\Users\Himasha\Downloads\girl.png"/>
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstatinsti.com%2Fcourse%2Fdata-science-in-borivali%2F&psig=AOvVaw0aEUUWyjJUdaqw4b2jLLHU&ust=1712670670889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD0y8rhsoUDFQAAAAAdAAAAABAQ/>
 
 <h1 align="center">Hi 👋, I'm Himasha Sandanika Rajawasan</h1>
 <h3 align="center">A passionate Data Science and Machine Learning</h3>
