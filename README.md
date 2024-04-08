@@ -1,3 +1,5 @@
+<img src = "C:\Users\Himasha\Downloads\girl.png"/>
+
 <h1 align="center">Hi 👋, I'm Himasha Sandanika Rajawasan</h1>
 <h3 align="center">A passionate Data Science and Machine Learning</h3>
 
